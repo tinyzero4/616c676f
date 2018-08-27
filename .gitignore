@@ -10,3 +10,7 @@
 *.classes
 
 **/build/*
+
+out
+.DS_Store
+*.zip

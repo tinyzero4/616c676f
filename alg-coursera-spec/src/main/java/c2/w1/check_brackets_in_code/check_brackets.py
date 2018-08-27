@@ -2,7 +2,7 @@
 
 import sys
 
-class Bracket:
+class c2.w1.check_brackets_in_code.Bracket:
     def __init__(self, bracket_type, position):
         self.bracket_type = bracket_type
         self.position = position

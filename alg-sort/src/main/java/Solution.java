@@ -230,7 +230,7 @@ public class Solution
 
 	public static void main(String[] args)
 	{
-		Solution s = new Solution();
+//		Solution s = new Solution();
 //		System.out.println(Arrays.toString(s.twoSum(new int[]{3, 2, 4}, 6)));
 
 //		System.out.println(s.reverseString("hello"));
@@ -259,63 +259,73 @@ public class Solution
 //		System.out.println(s.singleNumber(new int[]{1, 2, 1, 2, 3}));
 //		System.out.println(s.singleNumber(new int[]{1, 2, 1, 2, -5}));
 
-		ExecutorService service = Executors.newFixedThreadPool(2);
-		Lock lock = new ReentrantLock();
-		Condition a = lock.newCondition();
-		Condition b = lock.newCondition();
-		service.submit(() ->
-		{
-			try
-			{
-				while (!Thread.currentThread().isInterrupted())
-				{
-					lock.lock();
-					System.out.println("1");
-					b.signalAll();
-					a.await();
-				}
-			}
-			catch (InterruptedException e)
-			{
-				e.printStackTrace();
-			}
-			finally
-			{
-				lock.unlock();
-			}
-		});
+//		ExecutorService service = Executors.newFixedThreadPool(2);
+//		Lock lock = new ReentrantLock();
+//		Condition a = lock.newCondition();
+//		Condition b = lock.newCondition();
+//		service.submit(() ->
+//		{
+//			try
+//			{
+//				while (!Thread.currentThread().isInterrupted())
+//				{
+//					lock.lock();
+//					System.out.println("1");
+//					b.signalAll();
+//					a.await();
+//				}
+//			}
+//			catch (InterruptedException e)
+//			{
+//				e.printStackTrace();
+//			}
+//			finally
+//			{
+//				lock.unlock();
+//			}
+//		});
+//
+//		service.submit(() ->
+//		{
+//			try
+//			{
+//				while (!Thread.currentThread().isInterrupted())
+//				{
+//					lock.lock();
+//					System.out.println("2");
+//					a.signalAll();
+//					b.await();
+//				}
+//			}
+//			catch (InterruptedException e)
+//			{
+//				e.printStackTrace();
+//			}
+//			finally
+//			{
+//				lock.unlock();
+//			}
+//		});
+//
+//		try
+//		{
+//			TimeUnit.SECONDS.sleep(30);
+//		}
+//		catch (Exception e)
+//		{
+//			e.printStackTrace();
+//		}
+//		service.shutdown();
 
-		service.submit(() ->
-		{
-			try
-			{
-				while (!Thread.currentThread().isInterrupted())
-				{
-					lock.lock();
-					System.out.println("2");
-					a.signalAll();
-					b.await();
-				}
-			}
-			catch (InterruptedException e)
-			{
-				e.printStackTrace();
-			}
-			finally
-			{
-				lock.unlock();
-			}
-		});
+		System.out.println(flipBit(0, 1));
+		System.out.println(Integer.toBinaryString((1 << 31) -1));
+		System.out.println(Integer.toBinaryString(5));
+		System.out.println(Integer.toBinaryString(~5));
+		System.out.println(~5);
+	}
 
-		try
-		{
-			TimeUnit.SECONDS.sleep(30);
-		}
-		catch (Exception e)
-		{
-			e.printStackTrace();
-		}
-		service.shutdown();
+	public static int flipBit(int value, int bitIndex) {
+		return value ^ (1 << (bitIndex -1 ));
 	}
 
 	public boolean isValid(String s)

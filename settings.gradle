@@ -1,4 +1,5 @@
 rootProject.name = 'algs4'
 include 'alg-sort'
 include 'alg-coursera-spec'
+include 'alg-part2'
 
