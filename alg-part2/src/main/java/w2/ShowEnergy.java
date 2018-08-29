@@ -1,7 +1,7 @@
-/******************************************************************************
- *  Compilation:  javac ShowEnergy.java
- *  Execution:    java ShowEnergy input.png
- *  Dependencies: SeamCarver.java SCUtility.java
+package w2; /******************************************************************************
+ *  Compilation:  javac w2.ShowEnergy.java
+ *  Execution:    java w2.ShowEnergy input.png
+ *  Dependencies: w2.SeamCarver.java w2.SCUtility.java
  *                
  *
  *  Read image from file specified as command line argument. Show original

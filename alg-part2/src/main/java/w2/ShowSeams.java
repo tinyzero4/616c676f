@@ -1,7 +1,7 @@
-/******************************************************************************
- *  Compilation:  javac ShowSeams.java
- *  Execution:    java ShowSeams input.png
- *  Dependencies: SeamCarver.java SCUtility.java
+package w2; /******************************************************************************
+ *  Compilation:  javac w2.ShowSeams.java
+ *  Execution:    java w2.ShowSeams input.png
+ *  Dependencies: w2.SeamCarver.java w2.SCUtility.java
  *
  *  Read image from file specified as command line argument. Show 3 images 
  *  original image as well as horizontal and vertical seams of that image.
