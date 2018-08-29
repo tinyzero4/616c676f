@@ -1,9 +1,9 @@
-/******************************************************************************
- *  Compilation:  javac SCUtility.java
+package w2; /******************************************************************************
+ *  Compilation:  javac w2.SCUtility.java
  *  Execution:    none
- *  Dependencies: SeamCarver.java
+ *  Dependencies: w2.SeamCarver.java
  *
- *  Some utility functions for testing SeamCarver.java.
+ *  Some utility functions for testing w2.SeamCarver.java.
  *
  ******************************************************************************/
 

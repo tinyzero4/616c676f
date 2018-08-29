@@ -1,11 +1,11 @@
-/******************************************************************************
- *  Compilation:  javac PrintEnergy.java
- *  Execution:    java PrintEnergy input.png
- *  Dependencies: SeamCarver.java
+package w2; /******************************************************************************
+ *  Compilation:  javac w2.PrintEnergy.java
+ *  Execution:    java w2.PrintEnergy input.png
+ *  Dependencies: w2.SeamCarver.java
  *                
  *
  *  Read image from file specified as command line argument. Print energy
- *  of each pixel as calculated by SeamCarver object. 
+ *  of each pixel as calculated by w2.SeamCarver object.
  * 
  ******************************************************************************/
 

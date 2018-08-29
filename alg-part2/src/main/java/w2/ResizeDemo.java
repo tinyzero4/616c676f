@@ -1,10 +1,10 @@
-/******************************************************************************
- *  Compilation:  javac ResizeDemo.java
- *  Execution:    java ResizeDemo input.png columnsToRemove rowsToRemove
- *  Dependencies: SeamCarver.java SCUtility.java
+package w2; /******************************************************************************
+ *  Compilation:  javac w2.ResizeDemo.java
+ *  Execution:    java w2.ResizeDemo input.png columnsToRemove rowsToRemove
+ *  Dependencies: w2.SeamCarver.java w2.SCUtility.java
  *                
  *
- *  Read image from file specified as command line argument. Use SeamCarver
+ *  Read image from file specified as command line argument. Use w2.SeamCarver
  *  to remove number of rows and columns specified as command line arguments.
  *  Show the images and print time elapsed to screen.
  *
@@ -17,7 +17,7 @@ import edu.princeton.cs.algs4.Stopwatch;
 public class ResizeDemo {
     public static void main(String[] args) {
         if (args.length != 3) {
-            StdOut.println("Usage:\njava ResizeDemo [image filename] [num cols to remove] [num rows to remove]");
+            StdOut.println("Usage:\njava w2.ResizeDemo [image filename] [num cols to remove] [num rows to remove]");
             return;
         }
 
