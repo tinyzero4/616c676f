@@ -1422,7 +1422,7 @@
 1421,ague_root ague_grass Aletris_farinosa,colicroot having a scurfy or granuliferous perianth and white flowers; southeastern United States  
 1422,agueweed ague_weed five-flowered_gentian stiff_gentian Gentianella_quinquefolia Gentiana_quinquefolia,gentian of eastern North America having clusters of bristly blue flowers  
 1423,ailanthus,any of several deciduous Asian trees of the genus Ailanthus  
-1424,air_bladder swim_bladder float,an air-filled sac near the spinal column in many fishes that helps maintain buoyancy  
+1424,air_bladder swim_bladder float,an air-filled sac near the spinal col in many fishes that helps maintain buoyancy
 1425,air_mass,a large body of air with uniform characteristics horizontally  
 1426,air_pocket pocket air_hole,a local region of low pressure or descending air that causes a plane to lose height suddenly  
 1427,air_potato Dioscorea_bulbifera,yam of tropical Africa and Asia cultivated for it large tubers  
@@ -1822,7 +1822,7 @@
 1821,awn,slender bristlelike appendage found on the bracts of grasses  
 1822,awnless_bromegrass Bromus_inermis,drought-resistant perennial with awns lacking or very short and long creeping rhizomes; Europe and temperate Asia  
 1823,axial_muscle,a skeletal muscle of the trunk or head  
-1824,axial_skeleton,the part of the skeleton that includes the skull and spinal column and sternum and ribs  
+1824,axial_skeleton,the part of the skeleton that includes the skull and spinal col and sternum and ribs
 1825,axile_placentation,ovules are borne at or around the center of a compound ovary on an axis formed from joined septa  
 1826,axillary_artery arteria_axillaris,the part of the main artery of the arm that lies in the armpit and is continuous with the subclavian artery above and the brachial artery below  
 1827,axillary_node,any of the lymph glands of the armpit; fights infections in the neck and chest and arm regions  
@@ -1951,7 +1951,7 @@
 1950,beak bill neb nib pecker,horny projecting mouth of a bird  
 1951,beak honker hooter nozzle snoot snout schnozzle schnoz,informal terms for the nose  
 1952,beaked_hazelnut Corylus_cornuta,hazel of western United States with conspicuous beaklike involucres on the nuts  
-1953,beam beam_of_light light_beam ray ray_of_light shaft shaft_of_light irradiation,a column of light (as from a beacon)  
+1953,beam beam_of_light light_beam ray ray_of_light shaft shaft_of_light irradiation,a col of light (as from a beacon)
 1954,beam ray electron_beam,a group of nearly parallel lines of electromagnetic radiation  
 1955,bean,any of various seeds or fruits that are beans or resemble beans  
 1956,bean bean_plant,any of various leguminous plants grown for their edible seeds and pods  
@@ -2713,7 +2713,7 @@
 2712,catkin ament,a cylindrical spikelike inflorescence  
 2713,catmint catnip Nepeta_cataria,hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats  
 2714,cattley_guava purple_strawberry_guava Psidium_cattleianum Psidium_littorale_longipes,small tropical shrubby tree bearing deep red oval fruit  
-2715,cattleya,any orchid of the genus Cattleya characterized by a three-lobed lip enclosing the column; among the most popular and most extravagantly beautiful orchids known  
+2715,cattleya,any orchid of the genus Cattleya characterized by a three-lobed lip enclosing the col; among the most popular and most extravagantly beautiful orchids known
 2716,cauda,any taillike structure  
 2717,caudal_appendage,tail especially of a mammal posterior to and above the anus  
 2718,caudate_nucleus caudate,a tail-shaped basal ganglion located in a lateral ventricle of the brain  
@@ -3032,7 +3032,7 @@
 3031,coccygeal_nerve nervus_coccygeus,the lowest pair of spinal nerves  
 3032,coccygeal_plexus plexus_coccygeus,a small plexus formed by the fifth sacral and coccygeal nerves  
 3033,coccygeal_vertebra caudal_vertebra,one of 4 vertebrae in the human coccyx  
-3034,coccyx tail_bone,the end of the vertebral column in humans and tailless apes  
+3034,coccyx tail_bone,the end of the vertebral col in humans and tailless apes
 3035,cochlea,the snail-shaped tube (in the inner ear coiled around the modiolus) where sound vibrations are converted into nerve impulses by the organ of Corti  
 3036,cock prick dick shaft pecker tool putz,obscene terms for penis  
 3037,cock's_eggs Salpichroa_organifolia Salpichroa_rhomboidea,weedy vine of Argentina having solitary white flowers followed by egg-shaped white or yellow fruit  
@@ -3081,8 +3081,8 @@
 3080,coltsfoot Tussilago_farfara,perennial herb with large rounded leaves resembling a colt's foot and yellow flowers appearing before the leaves do; native to Europe but now nearly cosmopolitan; used medicinally especially formerly  
 3081,columbine aquilegia aquilege,a plant of the genus Aquilegia having irregular showy spurred flowers; north temperate regions especially mountains  
 3082,columbo American_columbo deer's-ear deer's-ears pyramid_plant American_gentian,any of various tall perennial herbs constituting the genus Frasera; widely distributed in warm dry upland areas of California, Oregon, and Washington  
-3083,column,any tubular or pillar-like supporting structure in the body  
-3084,column_chromatography,chromatography that uses selective adsorption by a column of powders  
+3083,col,any tubular or pillar-like supporting structure in the body
+3084,column_chromatography,chromatography that uses selective adsorption by a col of powders
 3085,columnea,tropical plant having thick hairy somewhat toothed leaves and solitary or clustered yellow to scarlet flowers; many cultivated for their flowers and ornamental foliage  
 3086,coma,(astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed  
 3087,comb,ciliated comb-like swimming plate of a ctenophore  
@@ -4293,7 +4293,7 @@
 4292,fire-on-the-mountain painted_leaf Mexican_fire_plant Euphorbia_cyathophora,poinsettia of United States and eastern Mexico; often confused with Euphorbia heterophylla  
 4293,fire_pink Silene_virginica,perennial herb of eastern North America, having red flowers with narrow notched petals  
 4294,firelight,the light of a fire (especially in a fireplace)  
-4295,firestorm,a storm in which violent winds are drawn into the column of hot air rising over a severely bombed area  
+4295,firestorm,a storm in which violent winds are drawn into the col of hot air rising over a severely bombed area
 4296,fireweed Erechtites_hieracifolia,an American weedy plant with small white or greenish flowers  
 4297,fireweed giant_willowherb rosebay_willowherb wickup Epilobium_angustifolium,tall North American perennial with creeping rootstocks and narrow leaves and spikes of pinkish-purple flowers occurring in great abundance in burned-over areas or recent clearings; an important honey plant  
 4298,firth,a long narrow estuary (especially in Scotland)  
@@ -4457,7 +4457,7 @@
 4456,fragrant_sumac lemon_sumac Rhus_aromatica,sweet-scented sumac of eastern America having ternate leaves and yellowish-green flowers in spikes resembling catkins followed by red hairy fruits  
 4457,frangipani frangipanni,any of various tropical American deciduous shrubs or trees of the genus Plumeria having milky sap and showy fragrant funnel-shaped variously colored flowers  
 4458,fraxinella dittany burning_bush gas_plant Dictamnus_alba,Eurasian perennial herb with white flowers that emit flammable vapor in hot weather  
-4459,free_central_placentation,where ovules develop on a central column in a compound ovary lacking septa or with septa at base only  
+4459,free_central_placentation,where ovules develop on a central col in a compound ovary lacking septa or with septa at base only
 4460,free_electron,electron that is not attached to an atom or ion or molecule but is free to move under the influence of an electric field  
 4461,freesia,any of several plants of the genus Freesia valued for their one-sided clusters of usually fragrant yellow or white or pink tubular flowers  
 4462,freestone,fruit (especially peach) whose flesh does not adhere to the pit  
@@ -5050,7 +5050,7 @@
 5049,herba_impia Filago_germanica,(literally an undutiful herb) a variety of cotton rose  
 5050,herbage pasturage,succulent herbaceous vegetation of pasture land  
 5051,heredity,the biological process whereby genetic factors are transmitted from one generation to the next  
-5052,heterocercal_fin,a tail fin with unequal lobes in which the vertebral column turns upward into the larger lobe as in sharks  
+5052,heterocercal_fin,a tail fin with unequal lobes in which the vertebral col turns upward into the larger lobe as in sharks
 5053,heterocyclic_ring heterocycle,a ring of atoms of more than one kind; especially a ring of carbon atoms containing at least one atom that is not carbon  
 5054,heterodactyl_foot,a bird's foot having the first and second toes of each foot directed backward and the third and fourth forward  
 5055,heterograft xenograft,tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species  
@@ -5109,7 +5109,7 @@
 5108,hollyhock,any of various tall plants of the genus Alcea; native to the Middle East but widely naturalized and cultivated for its very large variously colored flowers  
 5109,holm_oak holm_tree holly-leaved_oak evergreen_oak Quercus_ilex,evergreen oak of southern Europe having leaves somewhat resembling those of holly; yields a hard wood  
 5110,holometabolism holometaboly,complete metamorphosis in insects  
-5111,homocercal_fin,symmetrical tail fin extending beyond the end of the vertebral column as in most bony fishes  
+5111,homocercal_fin,symmetrical tail fin extending beyond the end of the vertebral col as in most bony fishes
 5112,homograft allograft,tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft  
 5113,homosexuality homosexualism homoeroticism queerness gayness,a sexual attraction to (or sexual relations with) persons of the same sex  
 5114,homospory,the development of a single kind of asexual spores  
@@ -5205,7 +5205,7 @@
 5204,hydrogen_ion,a positively charged atom of hydrogen; that is to say, a normal hydrogen atomic nucleus  
 5205,hydrogenation,a chemical process that adds hydrogen atoms to an unsaturated oil; "food producers use hydrogenation to keep fat from becoming rancid"  
 5206,hydrolysis,a chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water  
-5207,hydrostatic_head,the pressure at a given point in a liquid measured in terms of the vertical height of a column of the liquid needed to produce the same pressure  
+5207,hydrostatic_head,the pressure at a given point in a liquid measured in terms of the vertical height of a col of the liquid needed to produce the same pressure
 5208,hydroxide_ion hydroxyl_ion,the anion OH having one oxygen and one hydrogen atom  
 5209,hydroxyl hydroxyl_group hydroxyl_radical,the monovalent group -OH in such compounds as bases and some acids and alcohols  
 5210,hydroxymethyl,a methyl with hydroxide replacing the hydrogen atoms  
@@ -5478,7 +5478,7 @@
 5477,jujube jujube_bush Christ's-thorn Jerusalem_thorn Ziziphus_jujuba,spiny tree having dark red edible fruits  
 5478,jumby_bead jumbie_bead Ormosia_coarctata,West Indian tree similar to Ormosia monosperma but larger and having smaller leaflets and smaller seeds  
 5479,jumping_bean jumping_seed Mexican_jumping_bean,seed of Mexican shrubs of the genus Sebastiana containing the larva of a moth whose movements cause the bean to jerk or tumble  
-5480,jumping_orchid Catasetum_macrocarpum,orchid having both male and female flowers in the same raceme; when a sensitive projection at the base of the column of the male flower is touched the pollen is suddenly ejected  
+5480,jumping_orchid Catasetum_macrocarpum,orchid having both male and female flowers in the same raceme; when a sensitive projection at the base of the col of the male flower is touched the pollen is suddenly ejected
 5481,juneberry_holly,a holly shrub  
 5482,juniper_berry,berrylike fruit of a plant of the genus Juniperus especially the berrylike cone of the common juniper  
 5483,jupati jupaty jupati_palm Raffia_taedigera,a tall Brazilian feather palm with a terminal crown of very large leathery pinnatisect leaves rising from long strong stems used for structural purposes  
@@ -5909,7 +5909,7 @@
 5908,lumbar_plexus plexus_lumbalis,a lymphatic plexus located along the lower portion of the aorta and iliac vessels  
 5909,lumbar_plexus plexus_lumbalis,a plexus of nerves formed by the ventral branches of the first four lumbar nerves  
 5910,lumbar_vein vena_lumbalis,veins that drain the posterior body wall and the lumbar vertebral venous plexuses  
-5911,lumbar_vertebra,one of 5 vertebrae in the human vertebral column; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae  
+5911,lumbar_vertebra,one of 5 vertebrae in the human vertebral col; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae
 5912,lumbosacral_plexus,a nerve plexus formed by the ventral divisions of the coccygeal and sacral and lumbar nerves; supplies the lower limbs and perineum and coccygeal area  
 5913,lumen,a cavity or passage in a tubular organ; "the lumen of the intestine"  
 5914,luminescence,light not due to incandescence; occurs at low temperatures  
@@ -6145,7 +6145,7 @@
 6144,meniscus semilunar_cartilage,(anatomy) a disk of cartilage that serves as a cushion between the ends of bones that meet at a joint  
 6145,menorrhagia hypermenorrhea,abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged  
 6146,menstruation menses menstruum catamenia period flow,the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; "the women were sickly and subject to excessive menstruation"; "a woman does not take the gout unless her menses be stopped"--Hippocrates; "the semen begins to appear in males and to be emitted at the same time of life that the catamenia begin to flow in females"--Aristotle  
-6147,mentum,a projection like a chin formed by the sepals and base of the column in some orchids  
+6147,mentum,a projection like a chin formed by the sepals and base of the col in some orchids
 6148,mentum,a projection below the mouth of certain mollusks that resembles a chin  
 6149,mere,a small pond of standing water  
 6150,mericarp,a carpel with one seed; one of a pair split apart at maturity  
@@ -7801,8 +7801,8 @@
 7800,rhizome rootstock rootstalk,a horizontal plant stem with shoots above and roots below serving as a reproductive structure  
 7801,rhododendron,any shrub of the genus Rhododendron: evergreen shrubs or small shrubby trees having leathery leaves and showy clusters of campanulate (bell-shaped) flowers  
 7802,rhomboid rhomboid_muscle,any of several muscles of the upper back that help move the shoulder blade  
-7803,rhomboid_minor_muscle lesser_rhomboid_muscle musculus_rhomboideus_minor,rhomboid muscle that draws the scapula toward the vertebral column and slightly upward  
-7804,rhomboideus_major_muscle greater_rhomboid_muscle musculus_rhomboideus_major,rhomboid muscle that draws the scapula toward the spinal column  
+7803,rhomboid_minor_muscle lesser_rhomboid_muscle musculus_rhomboideus_minor,rhomboid muscle that draws the scapula toward the vertebral col and slightly upward
+7804,rhomboideus_major_muscle greater_rhomboid_muscle musculus_rhomboideus_major,rhomboid muscle that draws the scapula toward the spinal col
 7805,rhubarb rhubarb_plant,plants having long green or reddish acidic leafstalks growing in basal clumps; stems (and only the stems) are edible when cooked; leaves are poisonous  
 7806,rib,a riblike supporting or strengthening part of an animal or plant  
 7807,rib costa,any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)  
@@ -9118,7 +9118,7 @@
 9117,thoracic_duct,the major duct of the lymphatic system  
 9118,thoracic_nerve,any of twelve pairs of spinal nerves emerging from the thoracic region of the spinal cord  
 9119,thoracic_vein vena_thoracica,veins that drain the thoracic walls  
-9120,thoracic_vertebra dorsal_vertebra,one of 12 vertebrae in the human vertebral column; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra  
+9120,thoracic_vertebra dorsal_vertebra,one of 12 vertebrae in the human vertebral col; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra
 9121,thoracoepigastric_vein vena_thoracoepigastrica,a vein arising from the region of the superficial epigastric vein and opening into the axillary vein or thoracic vein  
 9122,thorax,the middle region of the body of an arthropod between the head and the abdomen  
 9123,thorax,part of an insect's body that bears the wings and legs  
@@ -9518,7 +9518,7 @@
 9517,vermis vermis_cerebelli,the narrow central part of the cerebellum between the two hemispheres  
 9518,vernal_witch_hazel Hamamelis_vernalis,fragrant shrub of lower Mississippi valley having very small flowers from midwinter to spring  
 9519,veronica speedwell,any plant of the genus Veronica  
-9520,vertebra,one of the bony segments of the spinal column  
+9520,vertebra,one of the bony segments of the spinal col
 9521,vertebral_artery arteria_vertebralis,the first branch of the subclavian artery; divided into four parts  
 9522,vertebral_vein vena_vertebralis,a vein that goes through the foramina of the cervical vertebrae and forms a plexus around the vertebral artery; empties into the brachiocephalic vein  
 9523,vertebrate_foot pedal_extremity,the extremity of the limb in vertebrates  
@@ -9637,7 +9637,7 @@
 9636,watermelon watermelon_vine Citrullus_vulgaris,an African melon  
 9637,watermelon_begonia Peperomia_argyreia Peperomia_sandersii,grown as a houseplant for its silvery striped fleshy foliage; South America  
 9638,waterpower,the power to do work that is latent in a head of water  
-9639,waterspout,a tornado passing over water and picking up a column of water and mist  
+9639,waterspout,a tornado passing over water and picking up a col of water and mist
 9640,waterway,a navigable body of water  
 9641,waterweed,a weedy aquatic plant of genus Elodea  
 9642,waterwheel_plant Aldrovanda_vesiculosa,floating aquatic carnivorous perennial of central and southern Europe, Africa, Asia, Australia having whorls of 6 to 9 leaves ending in hinged lobes for capturing e.g. water fleas  
@@ -9697,7 +9697,7 @@
 9696,wheel_tree firewheel_tree Stenocarpus_sinuatus,eastern Australian tree widely cultivated as a shade tree and for its glossy leaves and circular clusters of showy red to orange-scarlet flowers  
 9697,wheeze,breathing with a husky or whistling sound  
 9698,whinstone whin,any of various hard colored rocks (especially rocks consisting of chert or basalt)  
-9699,whirlwind,a more or less vertical column of air whirling around itself as it moves over the surface of the Earth  
+9699,whirlwind,a more or less vertical col of air whirling around itself as it moves over the surface of the Earth
 9700,whisk_fern,chiefly tropical clump-forming plants of skeletal appearance resembling whisk brooms; lacking roots  
 9701,whisker vibrissa sensory_hair,a long stiff hair growing from the snout or brow of most mammals as e.g. a cat  
 9702,white-berry_yew Pseudotaxus_chienii,yew of southeastern China, differing from the Old World yew in having white berries  
