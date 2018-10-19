@@ -617,7 +617,7 @@
 616,aggregate_fruit multiple_fruit syncarp,fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple  
 617,aging ageing senescence,the organic process of growing older and showing the effects of increasing age  
 618,agonist,a muscle that contracts while another relaxes; "when bending the elbow the biceps are the agonist"  
-619,air_bladder swim_bladder float,an air-filled sac near the spinal column in many fishes that helps maintain buoyancy  
+619,air_bladder swim_bladder float,an air-filled sac near the spinal col in many fishes that helps maintain buoyancy
 620,air_mass,a large body of air with uniform characteristics horizontally  
 621,air_pocket pocket air_hole,a local region of low pressure or descending air that causes a plane to lose height suddenly  
 622,air_sac,any of the thin-walled extensions of the tracheae of insects  
@@ -866,7 +866,7 @@
 865,avocado alligator_pear avocado_pear aguacate,a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed  
 866,awn,slender bristlelike appendage found on the bracts of grasses  
 867,axial_muscle,a skeletal muscle of the trunk or head  
-868,axial_skeleton,the part of the skeleton that includes the skull and spinal column and sternum and ribs  
+868,axial_skeleton,the part of the skeleton that includes the skull and spinal col and sternum and ribs
 869,axile_placentation,ovules are borne at or around the center of a compound ovary on an axis formed from joined septa  
 870,axillary_artery arteria_axillaris,the part of the main artery of the arm that lies in the armpit and is continuous with the subclavian artery above and the brachial artery below  
 871,axillary_node,any of the lymph glands of the armpit; fights infections in the neck and chest and arm regions  
@@ -921,7 +921,7 @@
 920,beak,beaklike mouth of animals other than birds (e.g., turtles)  
 921,beak bill neb nib pecker,horny projecting mouth of a bird  
 922,beak honker hooter nozzle snoot snout schnozzle schnoz,informal terms for the nose  
-923,beam beam_of_light light_beam ray ray_of_light shaft shaft_of_light irradiation,a column of light (as from a beacon)  
+923,beam beam_of_light light_beam ray ray_of_light shaft shaft_of_light irradiation,a col of light (as from a beacon)
 924,beam ray electron_beam,a group of nearly parallel lines of electromagnetic radiation  
 925,bean,any of various seeds or fruits that are beans or resemble beans  
 926,beanstalk,stem of a bean plant  
@@ -1392,7 +1392,7 @@
 1391,coccygeal_nerve nervus_coccygeus,the lowest pair of spinal nerves  
 1392,coccygeal_plexus plexus_coccygeus,a small plexus formed by the fifth sacral and coccygeal nerves  
 1393,coccygeal_vertebra caudal_vertebra,one of 4 vertebrae in the human coccyx  
-1394,coccyx tail_bone,the end of the vertebral column in humans and tailless apes  
+1394,coccyx tail_bone,the end of the vertebral col in humans and tailless apes
 1395,cochlea,the snail-shaped tube (in the inner ear coiled around the modiolus) where sound vibrations are converted into nerve impulses by the organ of Corti  
 1396,cock prick dick shaft pecker tool putz,obscene terms for penis  
 1397,cock_sucking blowjob,slang for fellatio  
@@ -1419,8 +1419,8 @@
 1418,collagen,a fibrous scleroprotein in bone and cartilage and tendon and other connective tissue; yields gelatin on boiling  
 1419,collagenase,any enzyme that catalyzes the hydrolysis of collagen and gelatin  
 1420,colon,the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted  
-1421,column,any tubular or pillar-like supporting structure in the body  
-1422,column_chromatography,chromatography that uses selective adsorption by a column of powders  
+1421,col,any tubular or pillar-like supporting structure in the body
+1422,column_chromatography,chromatography that uses selective adsorption by a col of powders
 1423,coma,(astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed  
 1424,comb,ciliated comb-like swimming plate of a ctenophore  
 1425,comb cockscomb coxcomb,the fleshy red crest on the head of the domestic fowl and other gallinaceous birds  
@@ -2049,7 +2049,7 @@
 2048,fingernail,the nail at the end of a finger  
 2049,fire flame flaming,the process of combustion of inflammable materials producing heat and light and (often) smoke; "fire was one of our ancestors' first discoveries"  
 2050,firelight,the light of a fire (especially in a fireplace)  
-2051,firestorm,a storm in which violent winds are drawn into the column of hot air rising over a severely bombed area  
+2051,firestorm,a storm in which violent winds are drawn into the col of hot air rising over a severely bombed area
 2052,firth,a long narrow estuary (especially in Scotland)  
 2053,fish-liver_oil fish_oil,a fatty oil obtained from the livers of various fish  
 2054,fishbone,a bone of a fish  
@@ -2137,7 +2137,7 @@
 2136,fractionation fractional_process,a process that uses heat to separate a substance into its components  
 2137,fragment,a piece broken off or cut off of something else; "a fragment of rock"  
 2138,fragmentation,(computer science) the condition of a file that is broken up and stored in many different locations on a magnetic disk; "fragmentation slows system performance because it takes extra time to locate and assemble the parts of the fragmented file"  
-2139,free_central_placentation,where ovules develop on a central column in a compound ovary lacking septa or with septa at base only  
+2139,free_central_placentation,where ovules develop on a central col in a compound ovary lacking septa or with septa at base only
 2140,freestone,fruit (especially peach) whose flesh does not adhere to the pit  
 2141,freeze freezing,the withdrawal of heat to change something from a liquid to a solid  
 2142,freeze frost,weather cold enough to cause freezing  
@@ -2408,7 +2408,7 @@
 2407,hepatic_lobe,any of the five lobes forming the liver  
 2408,hepatic_vein vena_hepatica,a vein that drains the liver; empties into the vena cava  
 2409,heredity,the biological process whereby genetic factors are transmitted from one generation to the next  
-2410,heterocercal_fin,a tail fin with unequal lobes in which the vertebral column turns upward into the larger lobe as in sharks  
+2410,heterocercal_fin,a tail fin with unequal lobes in which the vertebral col turns upward into the larger lobe as in sharks
 2411,heterocyclic_ring heterocycle,a ring of atoms of more than one kind; especially a ring of carbon atoms containing at least one atom that is not carbon  
 2412,heterodactyl_foot,a bird's foot having the first and second toes of each foot directed backward and the third and fourth forward  
 2413,heterograft xenograft,tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species  
@@ -2445,7 +2445,7 @@
 2444,hog_plum wild_plum,fruit of the wild plum of southern United States  
 2445,hog_plum yellow_mombin,yellow oval tropical fruit  
 2446,holometabolism holometaboly,complete metamorphosis in insects  
-2447,homocercal_fin,symmetrical tail fin extending beyond the end of the vertebral column as in most bony fishes  
+2447,homocercal_fin,symmetrical tail fin extending beyond the end of the vertebral col as in most bony fishes
 2448,homograft allograft,tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft  
 2449,homosexuality homosexualism homoeroticism queerness gayness,a sexual attraction to (or sexual relations with) persons of the same sex  
 2450,homospory,the development of a single kind of asexual spores  
@@ -2486,7 +2486,7 @@
 2485,hydrogen_bond,a chemical bond consisting of a hydrogen atom between two electronegative atoms (e.g., oxygen or nitrogen) with one side be a covalent bond and the other being an ionic bond  
 2486,hydrogenation,a chemical process that adds hydrogen atoms to an unsaturated oil; "food producers use hydrogenation to keep fat from becoming rancid"  
 2487,hydrolysis,a chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water  
-2488,hydrostatic_head,the pressure at a given point in a liquid measured in terms of the vertical height of a column of the liquid needed to produce the same pressure  
+2488,hydrostatic_head,the pressure at a given point in a liquid measured in terms of the vertical height of a col of the liquid needed to produce the same pressure
 2489,hydroxyl hydroxyl_group hydroxyl_radical,the monovalent group -OH in such compounds as bases and some acids and alcohols  
 2490,hydroxymethyl,a methyl with hydroxide replacing the hydrogen atoms  
 2491,hymen maidenhead virginal_membrane,a fold of tissue that partly covers the entrance to the vagina of a virgin  
@@ -2900,7 +2900,7 @@
 2899,lumbar_plexus plexus_lumbalis,a lymphatic plexus located along the lower portion of the aorta and iliac vessels  
 2900,lumbar_plexus plexus_lumbalis,a plexus of nerves formed by the ventral branches of the first four lumbar nerves  
 2901,lumbar_vein vena_lumbalis,veins that drain the posterior body wall and the lumbar vertebral venous plexuses  
-2902,lumbar_vertebra,one of 5 vertebrae in the human vertebral column; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae  
+2902,lumbar_vertebra,one of 5 vertebrae in the human vertebral col; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae
 2903,lumbosacral_plexus,a nerve plexus formed by the ventral divisions of the coccygeal and sacral and lumbar nerves; supplies the lower limbs and perineum and coccygeal area  
 2904,lumen,a cavity or passage in a tubular organ; "the lumen of the intestine"  
 2905,luminescence,light not due to incandescence; occurs at low temperatures  
@@ -3983,8 +3983,8 @@
 3982,rhinosporidiosis,fungal infection of the nose; often acquired while swimming  
 3983,rhizome rootstock rootstalk,a horizontal plant stem with shoots above and roots below serving as a reproductive structure  
 3984,rhomboid rhomboid_muscle,any of several muscles of the upper back that help move the shoulder blade  
-3985,rhomboid_minor_muscle lesser_rhomboid_muscle musculus_rhomboideus_minor,rhomboid muscle that draws the scapula toward the vertebral column and slightly upward  
-3986,rhomboideus_major_muscle greater_rhomboid_muscle musculus_rhomboideus_major,rhomboid muscle that draws the scapula toward the spinal column  
+3985,rhomboid_minor_muscle lesser_rhomboid_muscle musculus_rhomboideus_minor,rhomboid muscle that draws the scapula toward the vertebral col and slightly upward
+3986,rhomboideus_major_muscle greater_rhomboid_muscle musculus_rhomboideus_major,rhomboid muscle that draws the scapula toward the spinal col
 3987,rib,a riblike supporting or strengthening part of an animal or plant  
 3988,rib costa,any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates)  
 3989,rib_cage,the bony enclosing wall of the chest  
@@ -4606,7 +4606,7 @@
 4605,thoracic_duct,the major duct of the lymphatic system  
 4606,thoracic_nerve,any of twelve pairs of spinal nerves emerging from the thoracic region of the spinal cord  
 4607,thoracic_vein vena_thoracica,veins that drain the thoracic walls  
-4608,thoracic_vertebra dorsal_vertebra,one of 12 vertebrae in the human vertebral column; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra  
+4608,thoracic_vertebra dorsal_vertebra,one of 12 vertebrae in the human vertebral col; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra
 4609,thoracoepigastric_vein vena_thoracoepigastrica,a vein arising from the region of the superficial epigastric vein and opening into the axillary vein or thoracic vein  
 4610,thorax,the middle region of the body of an arthropod between the head and the abdomen  
 4611,thorax,part of an insect's body that bears the wings and legs  
@@ -4867,7 +4867,7 @@
 4866,ventricle heart_ventricle,a chamber of the heart that receives blood from an atrium and pumps it to the arteries  
 4867,venule venula capillary_vein,a minute vein continuous with a capillary  
 4868,vermis vermis_cerebelli,the narrow central part of the cerebellum between the two hemispheres  
-4869,vertebra,one of the bony segments of the spinal column  
+4869,vertebra,one of the bony segments of the spinal col
 4870,vertebral_artery arteria_vertebralis,the first branch of the subclavian artery; divided into four parts  
 4871,vertebral_vein vena_vertebralis,a vein that goes through the foramina of the cervical vertebrae and forms a plexus around the vertebral artery; empties into the brachiocephalic vein  
 4872,vertebrate_foot pedal_extremity,the extremity of the limb in vertebrates  
@@ -4928,7 +4928,7 @@
 4927,waterfall falls,a steep descent of the water of a river  
 4928,watermelon,large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp  
 4929,waterpower,the power to do work that is latent in a head of water  
-4930,waterspout,a tornado passing over water and picking up a column of water and mist  
+4930,waterspout,a tornado passing over water and picking up a col of water and mist
 4931,waterway,a navigable body of water  
 4932,wattle lappet,a fleshy wrinkled and often brightly colored fold of skin hanging from the neck or throat of certain birds (chickens and turkeys) or lizards  
 4933,wave,a persistent and widespread unusual weather condition (especially of unusual temperatures); "a heat wave"  
@@ -4946,7 +4946,7 @@
 4945,wheat_gluten,gluten prepared from wheat  
 4946,wheeze,breathing with a husky or whistling sound  
 4947,whinstone whin,any of various hard colored rocks (especially rocks consisting of chert or basalt)  
-4948,whirlwind,a more or less vertical column of air whirling around itself as it moves over the surface of the Earth  
+4948,whirlwind,a more or less vertical col of air whirling around itself as it moves over the surface of the Earth
 4949,whisker vibrissa sensory_hair,a long stiff hair growing from the snout or brow of most mammals as e.g. a cat  
 4950,white_matter substantia_alba,whitish nervous tissue of the CNS consisting of neurons and their myelin sheaths  
 4951,whiteout,an arctic atmospheric condition with clouds over snow produce a uniform whiteness and objects are difficult to see; occurs when the light reflected off the snow equals the light coming through the clouds  

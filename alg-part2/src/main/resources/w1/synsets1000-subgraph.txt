@@ -180,7 +180,7 @@
 179,cocarboxylase thiamine_pyrophosphate,a coenzyme important in respiration in the Krebs cycle  
 180,coccygeal_nerve nervus_coccygeus,the lowest pair of spinal nerves  
 181,coccygeal_vertebra caudal_vertebra,one of 4 vertebrae in the human coccyx  
-182,coccyx tail_bone,the end of the vertebral column in humans and tailless apes  
+182,coccyx tail_bone,the end of the vertebral col in humans and tailless apes
 183,cocoa_butter,a yellow-white fat from cocoa beans  
 184,coconut_oil copra_oil,oil from coconuts  
 185,cod-liver_oil cod_liver_oil,an oil obtained from the livers of cod and similar fishes; taken orally as a source of vitamins A and D  
@@ -473,7 +473,7 @@
 472,lower_jaw mandible mandibula mandibular_bone submaxilla lower_jawbone jawbone jowl,the jaw in vertebrates that is hinged to open the mouth  
 473,lower_respiratory_tract,the bronchi and lungs  
 474,lumbar_nerve,any of five pairs of spinal nerves emerging from the lumbar section of the spinal cord  
-475,lumbar_vertebra,one of 5 vertebrae in the human vertebral column; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae  
+475,lumbar_vertebra,one of 5 vertebrae in the human vertebral col; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae
 476,lunate_bone semilunar_bone os_lunatum,one of the eight small wrist bones  
 477,lymph_node lymph_gland node,the source of lymph and lymphocytes  
 478,lymphatic_system systema_lymphaticum,the interconnected system of spaces and vessels between body tissues and organs by which lymph circulates throughout the body  
@@ -868,7 +868,7 @@
 867,thing,a separate and self-contained entity  
 868,thoracic_nerve,any of twelve pairs of spinal nerves emerging from the thoracic region of the spinal cord  
 869,thoracic_vein vena_thoracica,veins that drain the thoracic walls  
-870,thoracic_vertebra dorsal_vertebra,one of 12 vertebrae in the human vertebral column; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra  
+870,thoracic_vertebra dorsal_vertebra,one of 12 vertebrae in the human vertebral col; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra
 871,thoracoepigastric_vein vena_thoracoepigastrica,a vein arising from the region of the superficial epigastric vein and opening into the axillary vein or thoracic vein  
 872,thorax,the middle region of the body of an arthropod between the head and the abdomen  
 873,thorax,part of an insect's body that bears the wings and legs  
@@ -963,7 +963,7 @@
 962,venter,a bulging body part (as the belly of a muscle)  
 963,ventral_root ventral_horn anterior_root anterior_horn,one of the two roots of a spinal nerve that passes ventrally from the spinal cord and that consists of motor fibers  
 964,venule venula capillary_vein,a minute vein continuous with a capillary  
-965,vertebra,one of the bony segments of the spinal column  
+965,vertebra,one of the bony segments of the spinal col
 966,vertebral_vein vena_vertebralis,a vein that goes through the foramina of the cervical vertebrae and forms a plexus around the vertebral artery; empties into the brachiocephalic vein  
 967,very_low_density_lipoprotein VLDL,large lipoproteins rich in triglycerides; VLDLs circulate through the blood giving up their triglycerides to fat and muscle tissue until the VLDL remnants are modified and converted into LDL  
 968,vesical_vein vena_vesicalis,veins that drain the vesical plexus and join the internal iliac veins  
