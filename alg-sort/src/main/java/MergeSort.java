@@ -1,5 +1,5 @@
 public class MergeSort<T extends Comparable<T>>
-    implements SortAlgorithm<T> {
+        implements SortAlgorithm<T> {
     @Override
     public T[] sort(T[] items) {
         Comparable[] aux = new Comparable[items.length];
