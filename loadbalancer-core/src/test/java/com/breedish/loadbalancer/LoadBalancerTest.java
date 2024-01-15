@@ -35,7 +35,7 @@ public class LoadBalancerTest {
     }
 
     @Test
-    public void shouldSelectSameServerWhenSingleServerIsAvailable() {
+    public void selectSameServerWhenSingleServerAvailable() {
         List<Server> servers = List.of(new Server("h1", 8000));
         LoadBalancer lb = new LoadBalancer(servers, new RoundRobbinRule());
 

@@ -5,8 +5,9 @@ import java.util.List;
 
 public class LoadBalancer {
 
-    private volatile List<Server> allServers;
+    private volatile List<Server> servers;
     private final Rule rule;
+
 
     public LoadBalancer(List<Server> servers, Rule rule) {
         setServers(servers);
@@ -18,11 +19,11 @@ public class LoadBalancer {
     }
 
     public void setServers(List<Server> servers) {
-        allServers = List.copyOf(servers);
+        this.servers = List.copyOf(servers);
     }
 
     public List<Server> getServers() {
-        return Collections.unmodifiableList(allServers);
+        return Collections.unmodifiableList(servers);
     }
 
     public List<Server> getLiveServers() {
